@@ -1,2 +1,3 @@
 # tp3
-for DTC 477 -- Tiny Project #3
+
+This is the README file for the new Tiny Project #3 that I'm working on.
